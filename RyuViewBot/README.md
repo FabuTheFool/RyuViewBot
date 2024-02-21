@@ -11,8 +11,6 @@ This software allows you to send viewers to your Twitch live stream without the 
 
 ⚠️ it is recommended to use this software on another computer (not the one you are streaming from) or on a computer with a large amount of RAM because it opens a lot of hidden tabs in the background and can send as many viewers as you want to the stream
 
-# Preview 💬
-https://user-images.githubusercontent.com/92625816/223770986-79017b4f-dc14-44b9-bd88-0a70aaeda2ee.mp4
 
 # 📥 Installation & Usage
 
@@ -25,9 +23,9 @@ https://user-images.githubusercontent.com/92625816/223770986-79017b4f-dc14-44b9-
   https://sites.google.com/chromium.org/driver/?pli=1
   
 ```sh
-git clone https://github.com/Kichi779/Twitch-Viewer-Bot kichiviewerbot
+git clone https://github.com/FabuTheFool/RyuViewBot
 
-cd kichiviewerbot
+cd RyuViewbot
 
 pip install -r requirements.txt (Or you can click on install.bat file)
 ```
@@ -40,7 +38,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 - **After opening the program, you need to select a proxy server 1 2 3... select the desired proxy server by entering the numbers (recommended proxy server 1. it is a proxy server)**
 
-- **Enter your channel name (example: kichi779) and then enter how many viewers you want to send. if you want to send 20, it is recommended to write 30**
+- **Enter your channel name (example: FabuTheFool) and then enter how many viewers you want to send. if you want to send 20, it is recommended to write 30**
 
 # Usage recommendations 📖
 
@@ -52,7 +50,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - Send more viewers and monetize ads / 50 Star ⭐ ✔️ 17.05.2023
 - It automatically lowers the broadcast quality and prevents the audience drop. / 100 Star ⭐⭐⭐ ✔️ 19.08.2023
 
-# [![BANANACAT](https://github.com/Kichi779/Twitch-Chat-Bot/assets/92625816/4e649089-fc37-4b73-ab3c-eb57a6ac90ce)](https://play.google.com/store/apps/details?id=com.Bread.BananaCatEscape)
 
  ### My projects are completely free and I don't provide income from this, if you want to support me, please download and try my game, if you like it, if you give 5 stars, you will make me happy and support me
 
@@ -60,7 +57,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 
 The software designed to perform website security testing. The author is not responsible for any illegal use of these programs. This is 100% educational, please do not misuse this tool. 
 
-If there is a legal problem, please contact my e-mail address. 
 
-kichi779@protonmail.com
+
+
 
